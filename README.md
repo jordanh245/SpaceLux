@@ -15,11 +15,11 @@ Layout or the website is as follows:
   
 Built using:
 
-  Html
+   Html
 
-  CSS
+   CSS
 
-  JavaScript
+   JavaScript
 
 Api's used throughout this project includes NASA APOD (Picture of the day) and Gnews.
 
