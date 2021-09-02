@@ -12,7 +12,9 @@ Layout for the website is as follows:
 Built using:
 
 Html
+
 CSS
+
 JavaScript
 
 
