@@ -1,6 +1,6 @@
 async function fetchNewsData() {
 	const data = await fetch(
-	  "https://newsapi.org/v2/everything?q=nasa&from=2021-09-01&sortBy=publishedAt/language=en/&apiKey=6acaa9b934d54b039a523d604ed51b38"
+	  "https://newsapi.org/v2/everything?q=nasa&from=2021-09-02&sortBy=publishedAt/language=en/&apiKey=6acaa9b934d54b039a523d604ed51b38"
 	);
 	const newsData = await data.json();
 	const newsArticles = document.querySelector(".newsArt");
