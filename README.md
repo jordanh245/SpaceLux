@@ -23,4 +23,5 @@ Built using:
 
 Api's used throughout this project includes NASA APOD (Picture of the day) and Gnews.
 
-
+You can visit my website at the link provided below:
+https://jordanh245.github.io/SpaceLux/
