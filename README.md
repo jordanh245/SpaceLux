@@ -4,13 +4,13 @@ This website is designed to allow the visitor to learn about space by providing 
 
 Layout or the website is as follows:
   
-  Home-  The Landing page you are greeted with that provides information about the website.
+    Home-  The Landing page you are greeted with that provides information about the website.
   
-  Space- Allows you to view who are currently aboard out ISS.
+    Space- Allows you to view who are currently aboard out ISS.
   
-  Picture- Picture of the day from NASA and information about the photo.
+    Picture- Picture of the day from NASA and information about the photo.
  
-  News- Most up to date news about all things NASA.
+    News- Most up to date news about all things NASA.
   
   
 Built using:
