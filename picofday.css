@@ -1,0 +1,113 @@
+body {
+	margin: 0;
+ background-color: ghostwhite;
+ font-family: 'Montserrat', sans-serif;
+}
+/* Nav bar css */
+li {
+	list-style: none;
+}
+.mainNav {
+	background-color: black;
+	list-style: none;
+	padding: 10px;	
+}
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 10px; 
+	padding-left: 60%;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+h1 {
+	font-size: 50px;
+}
+/* Button and input css */
+.viewButton {
+	
+	border-radius: 20px;
+	background-color: red;	
+}
+.input {
+	border-radius: 20px;
+}
+
+/* Main css */
+.mainContainer {
+	display: grid;
+	justify-content: center;
+	justify-content: space-evenly;
+	padding-bottom: 185px;
+	padding-top: 40px;
+	background-color: black;
+	color:ghostwhite;	
+}
+.dayImages {
+	margin-top: 50px;
+}
+.dayPic {
+	max-width: 500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.dayTitle {
+	text-align: center;
+	font-size: 75px;
+	color: black;
+}
+.dayDate {
+	text-align: center;
+	color: black;
+}
+.dayExp {
+	text-align: center;
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
+	color: black;
+	padding-bottom: 50px;
+}
+.mainNav a{
+	text-decoration: none;
+	color: ghostwhite;
+}
+
+/* Media Queries */
+@media screen and (min-width: 320px) and (max-width: 480px) {
+ .mainContainer {
+	 display: grid;
+	justify-content: center;
+	text-align: center;
+}
+h1 {
+	font-size: 40px;
+}
+.dayPic {
+	justify-content: center;
+	max-width: 300px;
+	margin-bottom: 15px;
+}
+.dayExp {
+	justify-content: center;
+	margin: 10px;
+	margin-bottom: 10px;
+}
+.dayTitle {
+	justify-content: center;
+	font-size: 30px;
+}
+nav {
+	display: flex;
+	justify-content: space-around;
+	padding: 10px;
+	font-size: 18px;	
+}}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+	.mainContainer {
+		display: grid;
+		justify-content: center;
+	}
+}
