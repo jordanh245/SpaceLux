@@ -1,6 +1,6 @@
 async function fetchNewsData() {
 	const data = await fetch(
-		// "https://gnews.io/api/v4/search?q=nasa&country=us&language=en&token=5c72d223e8cefeb8e540657a176433a9"
+		
 	
 		  "https://newsapi.org/v2/everything?q=nasa&from=&sortBy=publishedAt/language=en/&apiKey=6acaa9b934d54b039a523d604ed51b38"
 	);
