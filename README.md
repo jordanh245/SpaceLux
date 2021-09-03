@@ -25,3 +25,6 @@ Api's used throughout this project includes NASA APOD (Picture of the day) and G
 
 You can visit my website at the link provided below:
 https://jordanh245.github.io/SpaceLux/
+
+Medium Article:
+https://medium.com/@jordanharris245/spacelux-b8fc50dcc210
