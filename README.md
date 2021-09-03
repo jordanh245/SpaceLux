@@ -6,7 +6,7 @@ Layout or the website is as follows:
   
    • Home-  The Landing page you are greeted with that provides information about the website.
   
-   • Space- Allows you to view who are currently aboard out ISS.
+   • Space- Allows you to view who are currently aboard our ISS.
   
    • Picture- Picture of the day from NASA and information about the photo.
  
