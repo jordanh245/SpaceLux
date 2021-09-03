@@ -28,7 +28,7 @@ nav {
 	justify-content: space-around;
 	align-items: center;
 	margin-top: 10px; 
-	padding-left: 60%;
+	padding-left: 70%;
 	font-size: 20px;
 }
 .mainContainer a{
@@ -40,6 +40,7 @@ nav {
 /* Main css */
 h1 {
 	font-size: 100px;
+	padding-left: 10px;
 }
 
 .title {
@@ -56,7 +57,7 @@ h1 {
 	width: 650px;
 	margin-left: 30px;
 	text-align: justify;
-	
+	padding-left: 10px;
 	color: ghostwhite;
 	font-size: 30px;
 }
@@ -68,7 +69,6 @@ h1 {
 @media screen and (min-width: 320px) and (max-width: 480px){
 	h1 {
 		font-size: 50px;
-		
 	}
 	.para {
 		display: grid;
@@ -77,8 +77,6 @@ h1 {
 		width: 300px;
 		font-size: 20px;
 		margin-left: 10px;
-	
-		
 	}
 	.title {
 		display: grid;
@@ -91,7 +89,6 @@ h1 {
 		justify-content: space-around;
 		padding: 10px;
 		font-size: 18px;
-		
 	}
 }
 
